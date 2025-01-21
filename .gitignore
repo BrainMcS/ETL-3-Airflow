@@ -14,4 +14,3 @@ service_account.json
 include/dbt/target
 include/dbt/logs
 include/dbt/.user.yml
-.DS_Store

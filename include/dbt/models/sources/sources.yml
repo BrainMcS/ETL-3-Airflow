@@ -2,7 +2,7 @@ version: 2
 
 sources:
   - name: retail
-    database: 'airflow-dbt-soda-pipeline'
+    database: 'helical-glass-448521-n1'
 
     tables:
         - name: raw_invoices

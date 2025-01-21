@@ -10,6 +10,6 @@ data_source retail:
     dataset: retail
 
 soda_cloud:
-  host: cloud.us.soda.io
+  host: cloud.soda.io
   api_key_id: ${SODA_API_KEY_ID}
   api_key_secret: ${SODA_API_KEY_SECRET}
