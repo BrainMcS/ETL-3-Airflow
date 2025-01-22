@@ -1,6 +1,6 @@
 # Data Engineer Project: Retail Data Pipeline
 
-[Youtube tutorial]([https://www.youtube.com/watch?v=NP08fHker5U](https://www.youtube.com/watch?v=DzxtCxi4YaA)
+[Youtube tutorial](https://www.youtube.com/watch?v=DzxtCxi4YaA)
 
 Thanks to [Marc Lamberti](https://www.youtube.com/@MarcLamberti) videos, I've been following this [Notion](https://robust-dinosaur-2ef.notion.site/PUBLIC-Retail-Project-af398809b643495e851042fa293ffe5b) guide to create a complete project.
 
