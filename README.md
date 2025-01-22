@@ -30,6 +30,7 @@ In the folder ```dags/include/datasets/``` you will find 3 files, the ```online_
 
 ### Install Astro CLI
 [Install Astro CLI for your OS](https://www.astronomer.io/docs/astro/cli/install-cli)
+
 Note: Astro CLI is an alternative to direct Airflow Apache local installation - faster and easier Airflow deployment, and is a Doxker wrapper.
 The Astro CLI automatically runs Podman containers whenever you run a command that requires them. To run CLI commands in Docker containers, run the following command:
 
